@@ -4,7 +4,7 @@
   
   <p>以下のフォームからお問い合わせください。</p>
   
-  <form action="./com.php" method="post">
+  <form action="./complete.php" method="post">
 
     <table>
       <tr>
